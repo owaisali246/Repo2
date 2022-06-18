@@ -11,3 +11,7 @@ This is a new statement2.
 
 This is a subheader on feature 1.
 This is a new statement in feature 1.
+
+## feature-2
+
+This is a new branch.
